@@ -27,7 +27,7 @@
 
 <p align="left">
   <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="js" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/JQuery_logo.svg" height="50" style="vertical-align:middle;" alt="Jq"/> 
+  <img src="/assets/jq.svg" height="80" style="vertical-align:middle;" alt="Jq"/> 
   <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vue" />
   <img title="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" alt="nuxt" />
   <img title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html" />
@@ -61,7 +61,7 @@
 ---
  ### <img src="/assets/rangbazar.png" alt=" Rang Bazar Logo " width="50" height="50" style="vertical-align:middle;"/>  
 - [ Rang Bazar, Paint Shopping Site ](https://rangbazar.com)  
-- Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;"/> JavaScript, <img src="/assets/jq.svg" width="20" height="20" style="vertical-align:middle;"/> JQuery Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;"/> Css3, ASP.Net, <img src="/assets/bootstrap.svg" width="20" height="20" style="vertical-align:middle;"/> Boostrap5  
+- Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;"/> JavaScript, <img src="/assets/jq.svg"  style="vertical-align:middle;"/> JQuery Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;"/> Css3, ASP.Net, <img src="/assets/bootstrap.svg" width="20" height="20" style="vertical-align:middle;"/> Boostrap5  
 - 🔗 [ https://RangBazar.com ](https://rangbazar.com)
 
 ---
