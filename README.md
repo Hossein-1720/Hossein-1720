@@ -14,10 +14,10 @@
 
 ## 💫 About Me
 
-- 🧠 I’m currently learning **Nuxt 3**, **GSAP**, and **Clean UI Principles**
-- 🧳 I’m working on a personal portfolio + blog project
+- 🧠 Passionate about crafting smooth UI with **Nuxt 3** , **GSAP**, and clean design principles.
+- 🧳 Applying clean and maintainable UI design principles
 - 💬 Ask me about **Vue**, **Nuxt**, **JavaScript**
-- ✨ I love frontend animations and smooth UX!
+- ✨ I’m passionate about creating engaging frontend animations and delivering seamless user experiences
 - 📫 Reach me at: **H.Abbasi1720@gmail.com**
 <!-- - 🌐 Website: [your-website.com](https://your-website.com) (if any)
 -->
