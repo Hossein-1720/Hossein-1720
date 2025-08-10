@@ -47,26 +47,26 @@
 
 ## 🛠️ Latest projects
 
-### <img src="/assets/takasi.png" alt=" Takashi Logo " width="50" height="50" style="vertical-align:middle;"/>  
+### <img src="/assets/takasi.png" alt=" Takashi Logo " width="50"  style="vertical-align:middle;"/>  
 - [ Takashi Electronic Parts Store ](https://site2.takasi.store)  
 - Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Vue Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt UI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20" height="20" style="vertical-align:middle;"/> .Net Core, <img src="/assets/tailwind.svg" width="20" height="20" style="vertical-align:middle;"/> Tailwind CSS   
 - 🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
 
 ---
- ### <img src="/assets/khodromikham.png" alt=" Khodro Mikham Logo " width="50" height="50" style="vertical-align:middle;"/>  
+ ### <img src="/assets/khodromikham.png" alt=" Khodro Mikham Logo " width="50"  style="vertical-align:middle;"/>  
 - [ Khodro Mikham, a Car Sales Site ](https://khodromikham.ir)  
 - Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Vue Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt UI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20" height="20" style="vertical-align:middle;"/> .Net Core, <img src="/assets/tailwind.svg" width="20" height="20" style="vertical-align:middle;"/> Tailwind CSS   
 - 🔗 [ https://Khodroikham.ir ](https://khodromikham.ir)
 
 ---
- ### <img src="/assets/rangbazar.png" alt=" Rang Bazar Logo " width="50" height="50" style="vertical-align:middle;"/>  
+ ### <img src="/assets/rangbazar.png" alt=" Rang Bazar Logo " width="50"  style="vertical-align:middle;"/>  
 - [ Rang Bazar, Paint Shopping Site ](https://rangbazar.com)  
 - Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;"/> JavaScript, <img src="/assets/jq.svg" height="20" style="vertical-align:middle;"/> JQuery Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;"/> Css3, ASP.Net, <img src="/assets/bootstrap.svg" width="20" height="20" style="vertical-align:middle;"/> Boostrap5  
 - 🔗 [ https://RangBazar.com ](https://rangbazar.com)
 
 ---
 
- ### <img src="/assets/drghadimy.png" alt=" dr.ghadimi Logo " width="50" height="50" style="vertical-align:middle;"/>  
+ ### <img src="/assets/drghadimy.png" alt=" dr.ghadimi Logo " width="50"  style="vertical-align:middle;"/>  
 - [ Bilingual (en-fa) shopping site selling Dr. Ghadimi's course ](https://drghadimiacademy.com)  
 - Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;"/> JavaScript, <img src="/assets/jq.svg" width="20" height="20" style="vertical-align:middle;"/> JQuery Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;"/> Css3, ASP.Net, <img src="/assets/bootstrap.svg" width="20" height="20" style="vertical-align:middle;"/> Boostrap5  
 - 🔗 [ https://drghadimiacademy.com ](https://drghadimiacademy.com)
