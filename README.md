@@ -66,6 +66,13 @@
 
 ---
 
+ ### <img src="/assets/drghadimy.png" alt=" dr.ghadimi Logo " width="50" height="50" style="vertical-align:middle;"/>  
+- [ Bilingual (en-fa) shopping site selling Dr. Ghadimi's course ](https://drghadimiacademy.com)  
+- Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;"/> JavaScript, <img src="/assets/jq.svg" width="20" height="20" style="vertical-align:middle;"/> JQuery Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;"/> Css3, ASP.Net, <img src="/assets/bootstrap.svg" width="20" height="20" style="vertical-align:middle;"/> Boostrap5  
+- 🔗 [ https://drghadimiacademy.com ](https://drghadimiacademy.com)
+
+---
+
 
 
 ---
