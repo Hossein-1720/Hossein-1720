@@ -87,7 +87,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hossein-1720&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shima0811&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-1720&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 ---
@@ -101,5 +101,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shima0811&label=Profile+views&color=0e75b6&style=flat" alt="Hossein" />
+  <img src="https://komarev.com/ghpvc/?username=hossein-1720&label=Profile+views&color=0e75b6&style=flat" alt="Hossein" />
 </p>
