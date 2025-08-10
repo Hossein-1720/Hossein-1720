@@ -45,36 +45,31 @@
 
 ## 🛠️ Latest projects
 
-### 1-
- <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
+### <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
 [ Takashi Electronic Parts Store ](https://site2.takasi.store)  
 Technologies : Vue Js, Nuxt Js, .Net Core, Nuxt UI, Tailwind CSS  
 🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
 
 ---
- ### 2-
- <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
+ ### <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
 [ Takashi Electronic Parts Store ](https://site2.takasi.store)  
 Technologies : Vue Js, Nuxt Js, .Net Core, Nuxt UI, Tailwind CSS  
 🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
 
 ---
- ### 3-
- <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
+ ### <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
 [ Takashi Electronic Parts Store ](https://site2.takasi.store)  
 Technologies : Vue Js, Nuxt Js, .Net Core, Nuxt UI, Tailwind CSS  
 🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
 
 ---
- ### 4-
- <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
+ ### <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
 [ Takashi Electronic Parts Store ](https://site2.takasi.store)  
 Technologies : Vue Js, Nuxt Js, .Net Core, Nuxt UI, Tailwind CSS  
 🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
 
 ---
- ### 5-
- <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
+ ### <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
 [ Takashi Electronic Parts Store ](https://site2.takasi.store)  
 Technologies : Vue Js, Nuxt Js, .Net Core, Nuxt UI, Tailwind CSS  
 🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
