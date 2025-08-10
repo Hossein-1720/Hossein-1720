@@ -5,9 +5,9 @@
   Turning ideas into clean, interactive web experiences with Vue & Nuxt
 </h3>
 
-    <div align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1500&color=00F5A0&center=true&width=435&lines=💻+Crafting+modern,+interactive+web+experiences;🚀+Turning+ideas+into+beautiful,+functional+code;🌟+Crafting+pixel-perfect+experiences+with+passion;Always+learning+new+things..." />
-    </div>
+    <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1500&color=00F5A0&center=true&width=435&lines=+Crafting+modern,+interactive+web+experiences;+Turning+ideas+into+beautiful,+functional+code;+Crafting+pixel-perfect+experiences+with+passion;Always+learning+new+things..." />
+    </p>
 ---
 
 ## 💫 About Me
