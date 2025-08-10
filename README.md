@@ -27,18 +27,18 @@
 
 <p align="left">
   <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="js" />
-  <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" />
-  <img title="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxt" />
-  <img title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
-  <img title="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
+  <img style="margin-left:8px" title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vue" />
+  <img style="margin-left:8px" title="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxt" />
+  <img style="margin-left:8px" title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html" />
+  <img style="margin-left:8px" title="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css" />
   
   <!-- 
   tailwind css
 -->
 
-  <img title="tailwindCss" src="/assets/tailwind.svg" height="40" alt="git" />
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img title="GitHub" src="/assets/github.svg" height="40" alt="github" />
+  <img style="margin-left:8px" title="tailwindCss" src="/assets/tailwind.svg" height="40" alt="git" />
+  <img style="margin-left:8px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img style="margin-left:8px" title="GitHub" src="/assets/github.svg" height="40" alt="github" />
 </p>
 
 ---
