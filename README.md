@@ -61,7 +61,7 @@
 ---
  ### <img src="/assets/rangbazar.png" alt=" Rang Bazar Logo " width="50" height="50" style="vertical-align:middle;"/>  
 - [ Rang Bazar, Paint Shopping Site ](https://rangbazar.com)  
-- Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;"/> JavaScript, <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/JQuery_logo.svg" width="20" height="20" style="vertical-align:middle;"/> JQuery Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;"/> Css3 <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/bootstrap.svg" width="20" height="20" style="vertical-align:middle;"/> ASP.Net, <img src="/assets/tailwind.svg" width="20" height="20" style="vertical-align:middle;"/> Boostrap5  
+- Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;"/> JavaScript, <img src="/assets/jq.svg" width="20" height="20" style="vertical-align:middle;"/> JQuery Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;"/> Css3, ASP.Net, <img src="/assets/bootstrap.svg" width="20" height="20" style="vertical-align:middle;"/> Boostrap5  
 - 🔗 [ https://RangBazar.com ](https://rangbazar.com)
 
 ---
