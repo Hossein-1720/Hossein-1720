@@ -27,18 +27,20 @@
 
 <p align="left">
   <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="js" />
-  <img style="margin-left:8px" title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vue" />
-  <img style="margin-left:80px" title="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" alt="nuxt" />
-  <img style="margin-left:8px" title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html" />
-  <img style="margin-left:8px" title="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/JQuery_logo.svg" height="50" style="vertical-align:middle;" alt="Jq"/> 
+  <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vue" />
+  <img title="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" alt="nuxt" />
+  <img title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html" />
+  <img title="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css" />
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/bootstrap.svg"  height="50" style="vertical-align:middle;" alt="boptstrap"/> 
   
   <!-- 
   tailwind css
 -->
 
-  <img style="margin-left:8px" title="tailwindCss" src="/assets/tailwind.svg" height="50" alt="git" />
-  <img style="margin-left:8px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
-  <img style="margin-left:8px" title="GitHub" src="/assets/github.svg" height="50" alt="github" />
+  <img title="tailwindCss" src="/assets/tailwind.svg" height="50" alt="git" />
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
+  <img title="GitHub" src="/assets/github.svg" height="50" alt="github" />
 </p>
 
 -------
@@ -53,13 +55,13 @@
 ---
  ### <img src="/assets/khodromikham.png" alt=" Khodro Mikham Logo " width="50" height="50" style="vertical-align:middle;"/>  
 - [ Khodro Mikham, a Car Sales Site ](https://khodromikham.ir)  
-- Technologies : Vue Js, Nuxt Js, .Net Core, Nuxt UI, Tailwind CSS  
+- Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Vue Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt UI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20" height="20" style="vertical-align:middle;"/> .Net Core, <img src="/assets/tailwind.svg" width="20" height="20" style="vertical-align:middle;"/> Tailwind CSS   
 - 🔗 [ https://Khodroikham.ir ](https://khodromikham.ir)
 
 ---
  ### <img src="/assets/rangbazar.png" alt=" Rang Bazar Logo " width="50" height="50" style="vertical-align:middle;"/>  
 - [ Rang Bazar, Paint Shopping Site ](https://rangbazar.com)  
-- Technologies : JavaScript, JQuery.Js, Css3, MVC, Boostrap5  
+- Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;"/> JavaScript, <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/JQuery_logo.svg" width="20" height="20" style="vertical-align:middle;"/> JQuery Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;"/> Css3 <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/bootstrap.svg" width="20" height="20" style="vertical-align:middle;"/> ASP.Net, <img src="/assets/tailwind.svg" width="20" height="20" style="vertical-align:middle;"/> Boostrap5  
 - 🔗 [ https://RangBazar.com ](https://rangbazar.com)
 
 ---
