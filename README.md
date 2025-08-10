@@ -37,7 +37,7 @@
 
   <img title="tailwindCss" src="/assets/tailwind.svg" height="40" alt="git" />
   <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
-  <img title="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github" />
+  <img title="GitHub" src="/assets/github.svg" height="40" alt="github" />
 </p>
 
 ---
