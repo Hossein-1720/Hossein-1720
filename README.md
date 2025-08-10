@@ -45,36 +45,24 @@
 
 ## 🛠️ Latest projects
 
-### <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>
+### <img src="/assets/takasi.png" alt=" Takashi Logo " width="50" height="50" style="vertical-align:middle;"/>  
 - [ Takashi Electronic Parts Store ](https://site2.takasi.store)  
+- Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Vue Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt UI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20" height="20" style="vertical-align:middle;"/> .Net Core, <img src="/assets/tailwind.svg" width="20" height="20" style="vertical-align:middle;"/> Tailwind CSS   
+- 🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
+
+---
+ ### <img src="/assets/khodromikham.png" alt=" Khodro Mikham Logo " width="50" height="50" style="vertical-align:middle;"/>  
+- [ Khodro Mikham, a Car Sales Site ](https://khodromikham.ir)  
 - Technologies : Vue Js, Nuxt Js, .Net Core, Nuxt UI, Tailwind CSS  
--    🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
+- 🔗 [ https://Khodroikham.ir ](https://khodromikham.ir)
 
 ---
- ### <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
-[ Takashi Electronic Parts Store ](https://site2.takasi.store)  
-Technologies : Vue Js, Nuxt Js, .Net Core, Nuxt UI, Tailwind CSS  
-🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
+ ### <img src="/assets/rangbazar.png" alt=" Rang Bazar Logo " width="50" height="50" style="vertical-align:middle;"/>  
+- [ Rang Bazar, Paint Shopping Site ](https://rangbazar.com)  
+- Technologies : JavaScript, JQuery.Js, Css3, MVC, Boostrap5  
+- 🔗 [ https://RangBazar.com ](https://rangbazar.com)
 
 ---
- ### <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
-[ Takashi Electronic Parts Store ](https://site2.takasi.store)  
-Technologies : Vue Js, Nuxt Js, .Net Core, Nuxt UI, Tailwind CSS  
-🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
-
----
- ### <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
-[ Takashi Electronic Parts Store ](https://site2.takasi.store)  
-Technologies : Vue Js, Nuxt Js, .Net Core, Nuxt UI, Tailwind CSS  
-🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
-
----
- ### <img src="/assets/takasi.png" alt="لوگو پروژه 1" width="50" height="50" style="vertical-align:middle;"/>  
-[ Takashi Electronic Parts Store ](https://site2.takasi.store)  
-Technologies : Vue Js, Nuxt Js, .Net Core, Nuxt UI, Tailwind CSS  
-🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
-
-
 
 
 
