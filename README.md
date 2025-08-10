@@ -32,7 +32,7 @@
   <img title="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" alt="nuxt" />
   <img title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html" />
   <img title="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css" />
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/icons/bootstrap.svg"  height="50" style="vertical-align:middle;" alt="boptstrap"/> 
+  <img src="/assets/bootstrap.svg"  height="50" style="vertical-align:middle;" alt="boptstrap"/> 
   
   <!-- 
   tailwind css
