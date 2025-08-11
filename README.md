@@ -26,21 +26,21 @@
 ## 🛠️ Languages & Tools
 
 <p align="left" style="display: flex; gap: 4px; flex-wrap: wrap;">
-  <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="js" />
-  <img src="/assets/jq.svg" height="80" style="vertical-align:middle;" height="50" alt="Jq"/> 
-  <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vue" />
-  <img title="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" alt="nuxt" />
-  <img title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html" />
-  <img title="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css" />
-  <img src="/assets/bootstrap.svg"  height="50" style="vertical-align:middle;" alt="boptstrap"/> 
+  <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50px" alt="js" />
+  <img src="/assets/jq.svg" style="vertical-align:middle;" height="50" w alt="Jq"/> 
+  <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" width="50px" alt="vue" />
+  <img title="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" width="50px" alt="nuxt" />
+  <img title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50px" alt="html" />
+  <img title="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50px" alt="css" /> 
+  <img src="/assets/bootstrap.svg"  height="50" width="50px" style="vertical-align:middle;" alt="boptstrap"/> 
   
   <!-- 
   tailwind css
 -->
 
-  <img title="tailwindCss" src="/assets/tailwind.svg" height="50" alt="git" />
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git" />
-  <img title="GitHub" src="/assets/github.svg" height="50" alt="github" />
+  <img title="tailwindCss" src="/assets/tailwind.svg" height="50" width="50px" alt="git" />
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50px" alt="git" />
+  <img title="GitHub" src="/assets/github.svg" height="50" width="50px" alt="github" />
 </p>
 
 -------
