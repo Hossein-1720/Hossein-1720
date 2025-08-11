@@ -25,7 +25,7 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
+<p align="left" style="display: flex; gap: 4px; flex-wrap: wrap;">
   <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="js" />
   <img src="/assets/jq.svg" height="80" style="vertical-align:middle;" height="50" alt="Jq"/> 
   <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vue" />
