@@ -1,105 +1,194 @@
-<h1 align="center">
-  Hi 👋, I'm Hossein 
-</h1>
-<h3 align="center">
-  Turning ideas into clean, interactive web experiences with Vue & Nuxt
+# 👋 Hello, I'm Hossein Abbasi
+
+<h3 align="center" style="font-weight: 300; letter-spacing: 0.5px;">
+  Frontend Developer specializing in Vue & Nuxt ecosystems
 </h3>
 
- <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=00F5A0&center=true&width=435&lines=Crafting+modern,+interactive+web+experiences;Turning+ideas+into+beautiful,+functional+code;Creating+Perfect+Experiences;Always+learning+new+things..." />
-</p>
-
-  
----
-
-## 💫 About Me
-
-- 🧠 Passionate about crafting smooth UI with **Nuxt 3** , **GSAP**, and clean design principles.
-- 🧳 Applying clean and maintainable UI design principles
-- 💬 Ask me about **Vue**, **Nuxt**, **JavaScript**
-- ✨ I’m passionate about creating engaging frontend animations and delivering seamless user experiences
-- 📫 Reach me at: **H.Abbasi1720@gmail.com**
-<!-- - 🌐 Website: [your-website.com](https://your-website.com) (if any)
--->
----
-
-## 🛠️ Languages & Tools
-
-<p align="left" style="display: flex; gap: 4px; flex-wrap: wrap;">
-  <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" width="50px" alt="js" />
-  <img src="/assets/jq.svg" style="vertical-align:middle;" height="50" w alt="Jq"/> 
-  <img title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" width="50px" alt="vue" />
-  <img title="Nuxt.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" width="50px" alt="nuxt" />
-  <img title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50px" alt="html" />
-  <img title="Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="50px" alt="css" /> 
-  <img src="/assets/bootstrap.svg"  height="50" width="50px" style="vertical-align:middle;" alt="boptstrap"/> 
-  
-  <!-- 
-  tailwind css
--->
-
-  <img title="tailwindCss" src="/assets/tailwind.svg" height="50" width="50px" alt="git" />
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" width="50px" alt="git" />
-  <img title="GitHub" src="/assets/github.svg" height="50" width="50px" alt="github" />
-</p>
-
--------
-
-## 🛠️ Latest projects
-
-### <img src="/assets/takasi.png" alt=" Takashi Logo " width="50"  style="vertical-align:middle;"/>  
-- [ Takashi Electronic Parts Store ](https://takasi.store)  
-- Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Vue Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt UI, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20" height="20" style="vertical-align:middle;"/> .Net Core, <img src="/assets/tailwind.svg" width="20" height="20" style="vertical-align:middle;"/> Tailwind CSS   
-- 🔗 [ https://takasi.store ](https://takasi.store)
-
----
- ### <img src="/assets/khodromikham.png" alt=" Khodro Mikham Logo " width="50"  style="vertical-align:middle;"/>  
-- [ Khodro Mikham, a Car Sales Site ](https://khodromikham.ir)  
-- Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Vue Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt UI, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20" height="20" style="vertical-align:middle;"/> .Net Core, <img src="/assets/tailwind.svg" width="20" height="20" style="vertical-align:middle;"/> Tailwind CSS   
-- 🔗 [ https://Khodroikham.ir ](https://khodromikham.ir)
-
----
- ### <img src="/assets/rangbazar.png" alt=" Rang Bazar Logo " width="50"  style="vertical-align:middle;"/>  
-- [ Rang Bazar, Paint Shopping Site ](https://rangbazar.com)  
-- Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;"/> JavaScript, <img src="/assets/jq.svg" height="20" style="vertical-align:middle;"/> JQuery Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;"/> Css3, ASP.Net, <img src="/assets/bootstrap.svg" width="20" height="20" style="vertical-align:middle;"/> Boostrap5  
-- 🔗 [ https://RangBazar.com ](https://rangbazar.com)
-
----
-
- ### <img src="/assets/drghadimy.png" alt=" dr.ghadimi Logo " width="50"  style="vertical-align:middle;"/>  
-- [ Bilingual (en-fa) shopping site selling Dr. Ghadimi's course ](https://drghadimiacademy.com)  
-- Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;"/> JavaScript, <img src="/assets/jq.svg" width="20" height="20" style="vertical-align:middle;"/> JQuery Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;"/> Css3, ASP.Net, <img src="/assets/bootstrap.svg" width="20" height="20" style="vertical-align:middle;"/> Boostrap5  
-- 🔗 [ https://drghadimiacademy.com ](https://drghadimiacademy.com)
-
----
- ### <img src="/assets/baron.png" alt=" baron Logo " width="50"  style="vertical-align:middle;"/>  
-- [ Trilingual presentation site (en-fa-ru) of Baran Company, Energy Technology Developers Group ](https://baron.bhptest.ir/)  
-- Technologies : <img src="/assets/threeJs.png" width="20" height="20" style="vertical-align:middle;"/> Three Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20" style="vertical-align:middle;"/> JavaScript, <img src="/assets/jq.svg" width="20" height="20" style="vertical-align:middle;"/> JQuery Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20" height="20" style="vertical-align:middle;"/> Css3, ASP.Net, <img src="/assets/bootstrap.svg" width="20" height="20" style="vertical-align:middle;"/> Boostrap5  
-- 🔗 [ https://baron.bhptest.ir/ ](https://baron.bhptest.ir/)
-
-
-
-
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hossein-1720&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-1720&layout=compact&theme=tokyonight" alt="langs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=6366F1&center=true&width=600&height=40&lines=Building+modern,+performant+web+applications;Creating+seamless+user+experiences+with+Vue+%26+Nuxt;Crafting+clean,+maintainable+frontend+architectures;Transforming+ideas+into+elegant+digital+solutions" alt="Typing animation" />
 </p>
+
+<br />
+
+<div align="center">
+  
+  ![GitHub followers](https://img.shields.io/github/followers/hossein-1720?style=for-the-badge&logo=github&label=Followers&color=8B5CF6)
+  ![GitHub stars](https://img.shields.io/github/stars/hossein-1720?style=for-the-badge&logo=github&label=Stars&color=10B981)
+  ![Profile views](https://komarev.com/ghpvc/?username=hossein-1720&style=for-the-badge&label=Profile+Views&color=0EA5E9)
+
+</div>
 
 ---
 
-## 📫 Contact Me
+## 🚀 About Me
 
-- Telegram: [@yourhandle](https://t.me/Hossein1720)
-- LinkedIn: [linkedin.com/in/yourhandle](https://linkedin.com/in/Hossein1720)
-- Email: **H.Abbasi1720@gmail.com**
+<p align="justify" style="line-height: 1.6;">
+  I'm a passionate Frontend Developer with expertise in modern JavaScript frameworks, particularly Vue.js and Nuxt.js. I specialize in creating interactive, high-performance web applications with clean architecture and exceptional user experiences. My focus is on writing maintainable code, implementing smooth animations, and staying current with the latest frontend technologies.
+</p>
+
+<div align="center" style="margin: 2rem 0;">
+  <img src="https://github-profile-trophy.vercel.app/?username=hossein-1720&theme=nord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hossein-1720&label=Profile+views&color=0e75b6&style=flat" alt="Hossein" />
-</p>
+## 🛠️ Tech Stack
+
+### **Frontend Core**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,javascript,typescript,html,css,tailwind,bootstrap" alt="Frontend technologies" />
+</div>
+
+### **Development Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel" alt="Development tools" />
+</div>
+
+### **Additional Skills**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=gsap,threejs,jquery,dotnet,sass,webpack" alt="Additional skills" />
+</div>
+
+---
+
+## 💼 Featured Projects
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+
+### 🛍️ **Takasi E-commerce**
+<div style="background: linear-gradient(145deg, #0f172a 0%, #1e293b 100%); padding: 1.5rem; border-radius: 12px; border-left: 4px solid #8B5CF6;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+    <img src="/assets/takasi.png" alt="Takasi" width="40" height="40" />
+    <h4 style="margin: 0; color: #f8fafc;">Takasi Electronic Parts Store</h4>
+  </div>
+  <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5;">
+    Full-featured e-commerce platform for electronic components with modern UI/UX and responsive design.
+  </p>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0;">
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Vue.js</span>
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Nuxt 3</span>
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Tailwind</span>
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">.NET Core</span>
+  </div>
+  <a href="https://takasi.store" style="display: inline-flex; align-items: center; gap: 0.5rem; color: #8B5CF6; text-decoration: none; font-weight: 500;">
+    🌐 Live Demo →
+  </a>
+</div>
+
+### 🚗 **Khodro Mikham**
+<div style="background: linear-gradient(145deg, #0f172a 0%, #1e293b 100%); padding: 1.5rem; border-radius: 12px; border-left: 4px solid #10B981;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+    <img src="/assets/khodromikham.png" alt="Khodro Mikham" width="40" height="40" />
+    <h4 style="margin: 0; color: #f8fafc;">Car Sales Platform</h4>
+  </div>
+  <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5;">
+    Comprehensive vehicle marketplace with advanced filtering, search, and user management features.
+  </p>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0;">
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Vue.js</span>
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Nuxt.js</span>
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Nuxt UI</span>
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">.NET Core</span>
+  </div>
+  <a href="https://khodromikham.ir" style="display: inline-flex; align-items: center; gap: 0.5rem; color: #10B981; text-decoration: none; font-weight: 500;">
+    🌐 Visit Site →
+  </a>
+</div>
+
+### 🎨 **Rang Bazar**
+<div style="background: linear-gradient(145deg, #0f172a 0%, #1e293b 100%); padding: 1.5rem; border-radius: 12px; border-left: 4px solid #F59E0B;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+    <img src="/assets/rangbazar.png" alt="Rang Bazar" width="40" height="40" />
+    <h4 style="margin: 0; color: #f8fafc;">Paint E-commerce</h4>
+  </div>
+  <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5;">
+    Online paint store with product visualization, color selection tools, and inventory management.
+  </p>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0;">
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">JavaScript</span>
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">jQuery</span>
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Bootstrap 5</span>
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">ASP.NET</span>
+  </div>
+  <a href="https://rangbazar.com" style="display: inline-flex; align-items: center; gap: 0.5rem; color: #F59E0B; text-decoration: none; font-weight: 500;">
+    🌐 View Project →
+  </a>
+</div>
+
+### 🏢 **Baron Energy**
+<div style="background: linear-gradient(145deg, #0f172a 0%, #1e293b 100%); padding: 1.5rem; border-radius: 12px; border-left: 4px solid #EF4444;">
+  <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 1rem;">
+    <img src="/assets/baron.png" alt="Baron" width="40" height="40" />
+    <h4 style="margin: 0; color: #f8fafc;">Corporate Presentation</h4>
+  </div>
+  <p style="color: #cbd5e1; font-size: 0.9rem; line-height: 1.5;">
+    Trilingual corporate website with 3D animations and interactive elements for energy technology company.
+  </p>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0;">
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Three.js</span>
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">JavaScript</span>
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">Bootstrap 5</span>
+    <span style="background: #1e293b; color: #cbd5e1; padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem;">ASP.NET</span>
+  </div>
+  <a href="https://baron.bhptest.ir" style="display: inline-flex; align-items: center; gap: 0.5rem; color: #EF4444; text-decoration: none; font-weight: 500;">
+    🌐 Explore Site →
+  </a>
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; margin: 2rem 0;">
+    
+![Hossein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hossein-1720&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=nightowl&bg_color=0d1117&border_color=1a1f2c&icon_color=8B5CF6&text_color=c9d1d9&title_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-1720&layout=compact&theme=nightowl&bg_color=0d1117&border_color=1a1f2c&text_color=c9d1d9&title_color=58a6ff)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hossein-1720&theme=nightowl&background=0d1117&border=1a1f2c&stroke=1a1f2c&ring=8B5CF6&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=58a6ff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8B949E)
+
+  </div>
+</div>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center" style="margin: 2rem 0;">
+  
+  <a href="mailto:H.Abbasi1720@gmail.com" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <a href="https://linkedin.com/in/Hossein1720" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://t.me/Hossein1720" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  
+  <a href="https://github.com/hossein-1720" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+
+</div>
+
+<div align="center" style="margin-top: 3rem;">
+  <p style="color: #6B7280; font-size: 0.9rem;">
+    Thanks for visiting my profile! Feel free to explore my repositories and get in touch.
+  </p>
+  
+  <div style="margin-top: 1rem;">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer&animation=fadeIn" alt="Footer" />
+  </div>
+</div>
+
+---
+
+<div align="center" style="margin-top: 2rem; color: #6B7280; font-size: 0.8rem;">
+  <p>Last Updated: December 2023 • Made with ❤️ using Markdown</p>
+</div>
