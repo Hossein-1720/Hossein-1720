@@ -50,7 +50,7 @@
 ### <img src="/assets/takasi.png" alt=" Takashi Logo " width="50"  style="vertical-align:middle;"/>  
 - [ Takashi Electronic Parts Store ](https://takasi.store)  
 - Technologies : <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Vue Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt Js, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" width="20" height="20" style="vertical-align:middle;"/> Nuxt UI, <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="20" height="20" style="vertical-align:middle;"/> .Net Core, <img src="/assets/tailwind.svg" width="20" height="20" style="vertical-align:middle;"/> Tailwind CSS   
-- 🔗 [ https://site2.takasi.store ](https://site2.takasi.store)
+- 🔗 [ https://takasi.store ](https://takasi.store)
 
 ---
  ### <img src="/assets/khodromikham.png" alt=" Khodro Mikham Logo " width="50"  style="vertical-align:middle;"/>  
