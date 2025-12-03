@@ -27,7 +27,7 @@
 </p>
 
 <div align="center" style="margin: 2rem 0;">
-  <img src="https://github-profile-trophy.vercel.app/?username=hossein-1720&theme=nord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hossein-1720&theme=nord&column=2&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
